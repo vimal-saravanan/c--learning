@@ -1,0 +1,15 @@
+C:\Users\vinav\Desktop\c# learning\polymorphismex2\polymorphismex2\bin\Debug\net10.0\polymorphismex2.exe
+C:\Users\vinav\Desktop\c# learning\polymorphismex2\polymorphismex2\bin\Debug\net10.0\polymorphismex2.deps.json
+C:\Users\vinav\Desktop\c# learning\polymorphismex2\polymorphismex2\bin\Debug\net10.0\polymorphismex2.runtimeconfig.json
+C:\Users\vinav\Desktop\c# learning\polymorphismex2\polymorphismex2\bin\Debug\net10.0\polymorphismex2.dll
+C:\Users\vinav\Desktop\c# learning\polymorphismex2\polymorphismex2\bin\Debug\net10.0\polymorphismex2.pdb
+C:\Users\vinav\Desktop\c# learning\polymorphismex2\polymorphismex2\obj\Debug\net10.0\polymorphismex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinav\Desktop\c# learning\polymorphismex2\polymorphismex2\obj\Debug\net10.0\polymorphismex2.AssemblyInfoInputs.cache
+C:\Users\vinav\Desktop\c# learning\polymorphismex2\polymorphismex2\obj\Debug\net10.0\polymorphismex2.AssemblyInfo.cs
+C:\Users\vinav\Desktop\c# learning\polymorphismex2\polymorphismex2\obj\Debug\net10.0\polymorphismex2.csproj.CoreCompileInputs.cache
+C:\Users\vinav\Desktop\c# learning\polymorphismex2\polymorphismex2\obj\Debug\net10.0\polymorphismex2.dll
+C:\Users\vinav\Desktop\c# learning\polymorphismex2\polymorphismex2\obj\Debug\net10.0\refint\polymorphismex2.dll
+C:\Users\vinav\Desktop\c# learning\polymorphismex2\polymorphismex2\obj\Debug\net10.0\polymorphismex2.pdb
+C:\Users\vinav\Desktop\c# learning\polymorphismex2\polymorphismex2\obj\Debug\net10.0\polymorphismex2.genruntimeconfig.cache
+C:\Users\vinav\Desktop\c# learning\polymorphismex2\polymorphismex2\obj\Debug\net10.0\ref\polymorphismex2.dll
+C:\Users\vinav\Desktop\c# learning\polymorphismex2\polymorphismex2\obj\Debug\net10.0\polymorp.09E2131F.Up2Date
