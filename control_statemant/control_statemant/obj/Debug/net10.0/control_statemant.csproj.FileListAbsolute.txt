@@ -1,0 +1,14 @@
+C:\Users\vinav\Desktop\c# learning\control_statemant\control_statemant\bin\Debug\net10.0\control_statemant.exe
+C:\Users\vinav\Desktop\c# learning\control_statemant\control_statemant\bin\Debug\net10.0\control_statemant.deps.json
+C:\Users\vinav\Desktop\c# learning\control_statemant\control_statemant\bin\Debug\net10.0\control_statemant.runtimeconfig.json
+C:\Users\vinav\Desktop\c# learning\control_statemant\control_statemant\bin\Debug\net10.0\control_statemant.dll
+C:\Users\vinav\Desktop\c# learning\control_statemant\control_statemant\bin\Debug\net10.0\control_statemant.pdb
+C:\Users\vinav\Desktop\c# learning\control_statemant\control_statemant\obj\Debug\net10.0\control_statemant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinav\Desktop\c# learning\control_statemant\control_statemant\obj\Debug\net10.0\control_statemant.AssemblyInfoInputs.cache
+C:\Users\vinav\Desktop\c# learning\control_statemant\control_statemant\obj\Debug\net10.0\control_statemant.AssemblyInfo.cs
+C:\Users\vinav\Desktop\c# learning\control_statemant\control_statemant\obj\Debug\net10.0\control_statemant.csproj.CoreCompileInputs.cache
+C:\Users\vinav\Desktop\c# learning\control_statemant\control_statemant\obj\Debug\net10.0\control_statemant.dll
+C:\Users\vinav\Desktop\c# learning\control_statemant\control_statemant\obj\Debug\net10.0\refint\control_statemant.dll
+C:\Users\vinav\Desktop\c# learning\control_statemant\control_statemant\obj\Debug\net10.0\control_statemant.pdb
+C:\Users\vinav\Desktop\c# learning\control_statemant\control_statemant\obj\Debug\net10.0\control_statemant.genruntimeconfig.cache
+C:\Users\vinav\Desktop\c# learning\control_statemant\control_statemant\obj\Debug\net10.0\ref\control_statemant.dll
