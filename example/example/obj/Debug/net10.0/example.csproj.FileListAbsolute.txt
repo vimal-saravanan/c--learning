@@ -1,0 +1,14 @@
+C:\Users\vinav\Desktop\c# learning\example\example\bin\Debug\net10.0\example.exe
+C:\Users\vinav\Desktop\c# learning\example\example\bin\Debug\net10.0\example.deps.json
+C:\Users\vinav\Desktop\c# learning\example\example\bin\Debug\net10.0\example.runtimeconfig.json
+C:\Users\vinav\Desktop\c# learning\example\example\bin\Debug\net10.0\example.dll
+C:\Users\vinav\Desktop\c# learning\example\example\bin\Debug\net10.0\example.pdb
+C:\Users\vinav\Desktop\c# learning\example\example\obj\Debug\net10.0\example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinav\Desktop\c# learning\example\example\obj\Debug\net10.0\example.AssemblyInfoInputs.cache
+C:\Users\vinav\Desktop\c# learning\example\example\obj\Debug\net10.0\example.AssemblyInfo.cs
+C:\Users\vinav\Desktop\c# learning\example\example\obj\Debug\net10.0\example.csproj.CoreCompileInputs.cache
+C:\Users\vinav\Desktop\c# learning\example\example\obj\Debug\net10.0\example.dll
+C:\Users\vinav\Desktop\c# learning\example\example\obj\Debug\net10.0\refint\example.dll
+C:\Users\vinav\Desktop\c# learning\example\example\obj\Debug\net10.0\example.pdb
+C:\Users\vinav\Desktop\c# learning\example\example\obj\Debug\net10.0\example.genruntimeconfig.cache
+C:\Users\vinav\Desktop\c# learning\example\example\obj\Debug\net10.0\ref\example.dll
